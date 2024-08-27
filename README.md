@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **tensorflow.js , AI/ML , Simulation**
 
-- 👯 I’m looking to collaborate on **Learn Machine**
+- 👯 I’m looking to collaborate on [Learn Machine](https://github.com/Samiul-Islam-123/learn-machine)
 
 - 💬 Ask me about **nodejs , react, mongoDB**
 
@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/md-samiul-islam-b98475272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/md-samiul-islam-b98475272" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/samiul.sam.33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/samiul.sam.33/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@noobcoder606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@noobcoder606" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/md-samiul-islam-b98475272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/md-samiul-islam-b98475272" height="30" width="40" /></a>
+<a href="https://www.instagram.com/samiul.sam.33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/samiul.sam.33/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@noobcoder606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@noobcoder606" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
