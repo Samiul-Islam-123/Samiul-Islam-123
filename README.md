@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD Samiul Islam</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Job Junction](https://github.com/Samiul-Islam-123/job-junction)
+- 🔭 I’m currently working on [ProxyFlow](https://github.com/Samiul-Islam-123/proxy-flow)
 
 - 🌱 I’m currently learning **tensorflow.js , AI/ML , Simulation**
 
