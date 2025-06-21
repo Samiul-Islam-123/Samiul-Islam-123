@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm MD Samiul Islam</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from India (also a freelancer)</h3>
 
-- 🚀 **My 3rd Semester C++ Codes Repository**: Check out all my C++ code from the 3rd semester in this [repository](https://github.com/Samiul-Islam-123/3rd-sem-codes).
-
-- 🔭 I’m currently working on [ProxyFlow](https://github.com/Samiul-Islam-123/proxy-flow)
+- 🔭 I’m currently working on [HostifyVPS, my self hosted VPS selling business]
 
 - 🌱 I’m currently learning **tensorflow.js, AI/ML, Simulation**
 
-- 👯 I’m looking to collaborate on [ProxyFlow](https://github.com/Samiul-Islam-123/proxy-flow)
+- 👯 I’m looking to collaborate on [HostifyVPS, my self hosted VPS selling business]
 
 - 💬 Ask me about **Node.js, React, MongoDB**
 
 - 📫 How to reach me **isamiul099@gmail.com**
+
+-  Fiverr account **https://www.fiverr.com/s/8zNa7xo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
