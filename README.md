@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HostifyVPS, my self hosted VPS selling business]
 
-- 🌱 I’m currently learning **tensorflow.js, AI/ML, Simulation**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on [HostifyVPS, my self hosted VPS selling business]
 
