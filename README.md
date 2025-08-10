@@ -1,6 +1,7 @@
-# Hey there! 👋
-Hey there! 👋 I'm **Samiul** — a passionate **Full Stack Developer** on a mission to become a **Solopreneur** 🚀.  
-I love turning ideas into **SaaS, micro-SaaS, and AI-powered tools** that make your Monday mornings a little brighter 🌞.  
+# 🚀 Turning Ideas into Code, and Code into Products 🌟
+
+Hey there! 👋 I'm **Samiul** — a passionate **Full Stack Developer** on a mission to become a **Solopreneur**.  
+I love creating **SaaS, micro-SaaS, and AI-powered tools** that make your Monday mornings a little brighter 🌞.  
 
 🔭 Currently crafting **smart tools & SaaS products** to make work effortless.  
 👯 Open to collaborating on **full-stack apps, AI/ML experiments, and open-source projects**.  
