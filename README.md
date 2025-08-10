@@ -1,7 +1,8 @@
-# 🚀 Turning Ideas into Code, and Code into Products 🌟
+# 🌟 Samiul — Building SaaS, AI Tools & Dreams 🚀
 
-Hey there! 👋 I'm **Samiul** — a passionate **Full Stack Developer** on a mission to become a **Solopreneur**.  
-I love creating **SaaS, micro-SaaS, and AI-powered tools** that make your Monday mornings a little brighter 🌞.  
+Hey there! 👋 I'm **Samiul**, a passionate **Full Stack Developer** on a mission to turn ideas into products.  
+I build **SaaS, micro-SaaS, and AI-powered tools** that make your Mondays feel like Fridays.  
+
 
 🔭 Currently crafting **smart tools & SaaS products** to make work effortless.  
 👯 Open to collaborating on **full-stack apps, AI/ML experiments, and open-source projects**.  
