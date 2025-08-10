@@ -1,9 +1,23 @@
 # 💫 About Me:
-🔭 I’m currently working on **building SaaS & micro-SaaS tools** to make work easier.  <br>👯 I’m looking to collaborate on **full-stack web apps, AI/ML projects, and open-source tools**.  <br>🤝 I’m looking for help with **growing and scaling SaaS products**.  <br>🌱 I’m currently learning **DevOps, Linux, server management, and AI/ML**.  <br>💬 Ask me about **MERN stack development, APIs, and building products from scratch**.  <br>⚡ Fun fact: I believe the best ideas often come during coffee breaks ☕.  <br>
+Hey there! 👋 I'm **Samiul** — a passionate **Full Stack Developer** on a mission to become a **Solopreneur** 🚀.  
+I love turning ideas into **SaaS, micro-SaaS, and AI-powered tools** that make your Monday mornings a little brighter 🌞.  
 
+🔭 Currently crafting **smart tools & SaaS products** to make work effortless.  
+👯 Open to collaborating on **full-stack apps, AI/ML experiments, and open-source projects**.  
+🤝 Seeking guidance & networking to **scale SaaS products to the next level**.  
+🌱 Always learning — diving deeper into **DevOps, Linux, server wizardry, and AI/ML**.  
+💬 Let’s talk **MERN stack, APIs, product building, and turning ideas into reality**.  
+⚡ Fun fact: My best code commits happen after midnight 🌙 + coffee ☕.  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samiul.sam.33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-samiul-islam-9ba87b379) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Samiul_110) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isamiul099@gmail.com) 
+---
+
+## 🌐 Connect With Me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samiul.sam.33)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-samiul-islam-9ba87b379)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Samiul_110)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isamiul099@gmail.com)  
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/samiul_sam)  
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Samiul-Islam-123&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
